@@ -1,0 +1,30 @@
+{
+  "name": "curp-validation",
+  "description": "Validates the Clave Única de Registro de Población from Mexican Gov. format and check digit function",
+  "main": "js/curp-validation.js",
+  "moduleType": [
+	"globals"
+  ],
+  "keywords": [
+    "Renapo",
+    "CURP",
+    "Validación",
+    "Vallidator",
+    "check",
+    "digit",
+    "dígito",
+    "verificador"
+  ],
+  "authors": [
+    "others and Edgar Orozco"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
