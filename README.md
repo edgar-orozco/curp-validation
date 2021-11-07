@@ -1,3 +1,9 @@
 # curp-validation
 Validador y verificador de CURP
-# Ejemplo de uso
+
+#Uso:
+``
+if (CURP.valida("ABCD090909HDFRRD03") && CURP.verifica("ABCD090909HDFRRD03")) {
+  console.log('Es conformante y válido');
+}
+``
